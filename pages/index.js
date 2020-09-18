@@ -5,7 +5,7 @@ export default function Home(){
    return(
     <Layout>
       <Title>Home page</Title>
-      <p>Aprende Next.JS con Webtoriales</p>
+      <p>Mi primer pagina con next.JS</p>
 
       <style>
         {`
