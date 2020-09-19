@@ -5,7 +5,7 @@ export default function Home(){
    return(
     <Layout>
       <Title>Home page</Title>
-      <p className='ha'>Hola ANDI :3</p>
+      <p className='ha'>Mi primer pagina con Next.js</p>
 
       <style>
         {`
