@@ -5,7 +5,7 @@ export default function Home(){
    return(
     <Layout>
       <Title>Home page</Title>
-      <p>Mi primer pagina con next.JS</p>
+      <p className='ha'>Mi primer pagina con next.JS</p>
 
       <style>
         {`
@@ -16,6 +16,10 @@ export default function Home(){
 
           p:hover{
             color: darkred;
+          }
+
+          ha{
+            color: black;
           }
 
         `}
